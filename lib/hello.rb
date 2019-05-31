@@ -9,4 +9,4 @@ while i < array.length
 end
 
 # call your method here!
-
+hello_t(["f"])
